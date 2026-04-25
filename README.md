@@ -49,5 +49,12 @@ This project presents an interactive Power BI dashboard to analyze inventory los
 
 ---
 
+## 🔍 Key Insights
+- Ashirwaad Atta is the most expired product in the inventory  
+- Beverages category has the highest damage, with Butter being the most damaged product in the Hyderabad hub  
+- ITC Limited is the supplier contributing the most to near expiry products  
+
+---
+
 ## 📌 Conclusion
 This dashboard provides a comprehensive view of inventory loss, helping businesses track critical issues and make informed decisions to improve operational efficiency.
